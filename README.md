@@ -1,0 +1,2 @@
+# topicMining
+使用LDA模型进行从stackoverfolow收集的移动端开发问题的主题挖掘，python的编程练习
